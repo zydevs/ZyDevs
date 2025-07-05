@@ -21,26 +21,26 @@ Saya menguasai teknologi seperti **HTML**, **CSS**, **JavaScript**, **PHP**, dan
 Berikut adalah beberapa teknologi dan alat yang saya gunakan:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-`![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)`
-`![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)`
-`![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)`
-`![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)`
-`![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)`
-`![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)`
-`![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)`
-`![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)`
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 Statistik GitHub
 
-`![Hafizi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zydevs&show_icons=true&theme=vue-dark)`
-`![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zydevs&layout=compact&theme=vue-dark)`
+![Hafizi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zydevs&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zydevs&layout=compact&theme=vue-dark)
 
 <details>
   <summary>:zap: Aktivitas GitHub Terakhir</summary>
   
-  `![activity](https://github-readme-activity-graph.vercel.app/graph?username=zydevs&bg_color=282828&color=AF6BCE&line=AF6BCE&point=AF6BCE&area=true&hide_border=true)`
+  ![activity](https://github-readme-activity-graph.vercel.app/graph?username=zydevs&bg_color=282828&color=AF6BCE&line=AF6BCE&point=AF6BCE&area=true&hide_border=true)
 </details>
 
 ---
